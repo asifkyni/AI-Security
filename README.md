@@ -10,7 +10,7 @@ AI security is a critical domain focused on safeguarding artificial intelligence
 ### Current Challenges in AI Security
 
 #### 1. Physical Attacks on Visual Systems
-One of the most prominent threats in AI security involves adversarial attacks on image recognition systems. A notable example is manipulating a stop sign with stickers so that an autonomous car interprets it as a 30 mph speed limit sign. This highlights the vulnerability of computer vision systems to physical adversarial attacks.
+One of the most prominent threats in AI security involves adversarial attacks on image recognition systems. A notable example is manipulating a stop sign with stickers so that an autonomous car interprets it as a 45 mph speed limit sign. This vulnerability was demonstrated in the paper "Robust Physical-World Attacks on Machine Learning Models" by Eykholt et al., where stickers designed to resemble graffiti caused misclassification under various conditions ([Eykholt et al., 2018](https://arxiv.org/pdf/1707.08945), Section 5.2, page 7).
 
 #### 2. Adversarial Attacks in Text and NLP
 Natural Language Processing (NLP) models are susceptible to adversarial inputs such as:
